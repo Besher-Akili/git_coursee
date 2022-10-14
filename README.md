@@ -2,4 +2,4 @@
 for elzero web school
 
 
-## peoject notes
+## Project Notes
